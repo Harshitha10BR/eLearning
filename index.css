@@ -52,7 +52,7 @@ nav .navigation ul li a:hover{
 	display: none;
 }
 #home{
-	background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)),url("tech/bg1.jpg");
+	background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)),url("tech\bg1.jpg");
 	width:100%;
 	height:100vh;
 	background-size:cover;
@@ -205,7 +205,7 @@ nav .navigation ul li a:hover{
 #registration{
 	margin-top: 50px;
 	padding:6vw 8vw 6vw 8vw;
-	background-image:linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)),url("tech/index1.png");
+	background-image:linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)),url("tech\index1.png");
 	width: 100%;
 	height: 100%;
 	background-size: cover;
